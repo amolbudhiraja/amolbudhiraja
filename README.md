@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @amolbudhiraja
-- 👀  I’m interested in IOS Development, Android Development, Artificial Intelligence, and Machine Learning. 
-- 🌱  I’m currently learning Flutter and Python. 
-- 💞️  I’m looking to collaborate on iOS and Android Development. Web Development. 
+- 👀  I’m interested in Software Engineering, Systems Engineering, Electrical Engineering, Machine Learning, Artifical Intelligence, and Blockchain. 
+- 🌱  I’m currently learning ReactJS. 
+- 💞️  I’m looking to collaborate on any project!
 - 📫  How to reach me: My Website: http://amol.budhiraja.com/
 
 <!---
