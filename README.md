@@ -1,6 +1,6 @@
-- 👋  Hi, I’m @amolbudhiraja
+- 👋  Hi, I’m Amol Budhiraja @amolbudhiraja
+- 📚  I am currently studying Electrical Engineering and Computer Science at University of California, Berkeley. 
 - 👀  I’m interested in Software Engineering, Systems Engineering, Electrical Engineering, Machine Learning, Artifical Intelligence, and Blockchain. 
-- 🌱  I’m currently learning ReactJS. 
 - 💞️  I’m looking to collaborate on any project!
 - 📫  How to reach me: My Website: http://amol.budhiraja.com/
 
