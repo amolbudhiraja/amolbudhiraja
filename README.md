@@ -2,7 +2,8 @@
 ## Electrical Engineering and Computer Science Student @ UC Berkeley  
 ### Over Summer 2022, I worked as a Software Development Intern at Sacramento Municipal Utilities District. LIkewise, I have experience developing software using a variety of tools such as React, Flask, TailwindCSS, and more!  
 
-* 🌍  I'm based in California * 🖥️  See my portfolio at [amol.budhiraja.com](http://amol.budhiraja.com) 
+* 🌍  I'm based in California 
+* 🖥️  See my portfolio at [amol.budhiraja.com](http://amol.budhiraja.com) 
 * ✉️  You can contact me at [abudhiraja@berkeley.edu](mailto:abudhiraja@berkeley.edu) 
 * 🚀  I'm currently working on [Indif Tech React Native App](http://indiftech.com) 
 * 🧠  I'm learning React Native * 🤝  I'm open to collaborating on anything! Machine Learning, Web Development, App Development, Startups, Systems Engineering, Electrical Engineering, and more!
