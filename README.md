@@ -1,11 +1,11 @@
 # Hi 👋 My name is Amol Budhiraja 
-## EECS @ UC Berkeley  
-### Electrical Engineering and Computer Science
+## EECS (Electrical Engineering and Computer Science) @ UC Berkeley  
 
 * 🌍  I'm based in the California Bay Area.
-* 🖥️  See my portfolio at [amol.budhiraja.com](http://amol.budhiraja.com) 
-* ✉️  You can contact me at [abudhiraja@berkeley.edu](mailto:abudhiraja@berkeley.edu) 
+* 🖥️  See my portfolio at [amol.budhiraja.com](http://amol.budhiraja.com).
+* ✉️  You can contact me at [abudhiraja@berkeley.edu](mailto:abudhiraja@berkeley.edu).
 * 🤝  I'm open to collaborating on anything! Machine Learning, Web Development, App Development, Startups, Systems Engineering, Electrical Engineering, and more!
+* 💼 Last summer, I worked as a Software Engineering Intern at [Sacramento Municipal Utilities District (SMUD)](https://www.smud.org/). 
 
 ### Technologies That I Have Experience In
 
