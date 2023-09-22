@@ -4,7 +4,7 @@
 * 🌍  I'm based in the California Bay Area.
 * 🖥️  See my portfolio at [amol.budhiraja.com](http://amol.budhiraja.com).
 * ✉️  You can contact me at [abudhiraja@berkeley.edu](mailto:abudhiraja@berkeley.edu).
-* 🤝  I'm open to collaborating on anything! Machine Learning, Web Development, App Development, Startups, Systems Engineering, Electrical Engineering, and more!
+* 🤝  I'm open to collaborating on anything! I specialize in Software Engineering with Swift, Python, and C++. I have a variety of experiences with fields like Computer Vision, Machine Learning, and Mobile/Web App Development. 
 
 ### Technologies That I Have Experience In
 
