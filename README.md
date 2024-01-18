@@ -1,6 +1,6 @@
 # Hello! Welcome to my profile! 👋
 
-My name is Amol Budhiraja. I am an Electrical Engineering and Computer Sciences (EECS) undergraduate at UC Berkeley! 
+My name is Amol Budhiraja. I am an Electrical Engineering and Computer Sciences (EECS) undergraduate at UC Berkeley. 
 
 * 🍎 Last summer, I worked as a Software Engineering Intern @ Apple where I worked on the Apple Vision Pro! <br>
 * 📚 I have taken a variety of courses at UC Berkeley including: Computer Vision and Computation Photography [CS180/280A], Optimization Models in Engineering [EECS127/227A], Computer Architecture [CS61C], and Database Systems [CS186]. <br>
