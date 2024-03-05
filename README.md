@@ -3,7 +3,7 @@
 My name is Amol Budhiraja. I am an Electrical Engineering and Computer Sciences (EECS) undergraduate at UC Berkeley. 
 
 * 🍎 Last summer, I worked as a Software Engineering Intern @ Apple where I worked on the Apple Vision Pro! <br>
-* 📚 I have taken a variety of courses at UC Berkeley including: Computer Vision and Computation Photography [CS180/280A], Optimization Models in Engineering [EECS127/227A], Computer Architecture [CS61C], and Database Systems [CS186]. <br>
+* 📚 I have taken a variety of courses at UC Berkeley in CS/EE! Currently, I am taking: Operating Systems (CS162), Computer Security (CS161), Signals and Systems (EE120), and some additional breadth courses.<br>
 * 🧪 I am currently researching the intersection of Large Language Models (LLMs) and Internet of Things (IoT) devices at the Berkeley NetSys lab. I also serve as a Product Manager and Developer at Mobile Developers of Berkeley (MDB). <br>
 * 🤝 I am always looking to collaborate on exciting new projects! I specialize in Machine Learning/Computer Vision but have experiences that range the entire technology stack. Feel free to reach out if you are interested in collaborating! 
 
